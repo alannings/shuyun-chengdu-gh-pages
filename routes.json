@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/",
+    "file": "index.html"
+  },
+  {
+    "path": "/city",
+    "file": "index.html"
+  },
+  {
+    "path": "/destinations",
+    "file": "index.html"
+  },
+  {
+    "path": "/food",
+    "file": "index.html"
+  },
+  {
+    "path": "/culture",
+    "file": "index.html"
+  },
+  {
+    "path": "/travel",
+    "file": "index.html"
+  },
+  {
+    "path": "/gallery",
+    "file": "index.html"
+  }
+]
